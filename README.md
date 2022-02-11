@@ -11,6 +11,8 @@ The name convolutional neural network indicates that the network employs a mathe
 
 A CNN consists of an input, output and hidden layers. These consists of a series of convolutional layers.
 
+![image](https://user-images.githubusercontent.com/89279311/153575453-7537aab9-a740-4721-9804-a2af881258ca.png)
+
 FastAI simplifies training fast and accurate neural nets using modern best practices;
 FastAI is a deep learning library which provides practitioners with high-level components that can quickly and easily provide state-of-the-art results in standard deep learning domains, and provides researchers with low-level components that can be mixed and matched to build new approaches. It aims to do both things without substantial compromises in ease of use, flexibility, or performance. This is possible thanks to a carefully layered architecture, which expresses common underlying patterns of many deep learning and data processing techniques in terms of decoupled abstractions.
 
@@ -19,6 +21,8 @@ This Data contains around 25k images of size 150x150 distributed under 6 categor
 'buildings','forest','glacier','mountain','sea','street'
 
 There are around 14k images in Train, 3k in Test and 7k in Prediction.
+
+![image](https://user-images.githubusercontent.com/89279311/153575565-8d5e8222-ec67-493b-96e1-da8b17324700.png)
 
 The aim of the project is to build a ml algorithm which predicts the content/label of the test images.
 
